@@ -25,44 +25,44 @@ Data Collector's answer :
 
 ## In which range of IMDb scores are movies most commonly rated?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/number_of_movies_by_imdb_score_range.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/number_of_movies_by_imdb_score_range.jpg)
 
 
 ## Which genres have the highest average ratings?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/avg_imdb_score.jpg)
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/avg_imdb_score_errorbars.jpg)
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/avg_imdb_score_filtered_genres.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/avg_imdb_score.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/avg_imdb_score_errorbars.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/avg_imdb_score_filtered_genres.jpg)
 
 ## How is the distribution of movie releases across years? Is there an increase or decrease in specific genres during a particular period?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/movie_releases_by_year_genre.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/movie_releases_by_year_genre.jpg)
 
 ## What is the relationship between budget and revenue? Do high-budget films generate higher revenues?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/budget_gross_scatterplot.jpg)
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/budget_gross_lmplot.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/budget_gross_scatterplot.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/budget_gross_lmplot.jpg)
 
 ## Is there a relationship between the duration of films and their ratings, budgets, and revenues?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/runtime_score_budget_gross_heatmap.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/runtime_score_budget_gross_heatmap.jpg)
 
 ## What are the director-star pairs that have collaborated the most, have the highest average IMDb score, and have earned the most revenue together?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/star_director_num_of_movies.jpg)
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/star_director_avg_imdb_score.jpg)
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/star_director_total_gross.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/star_director_num_of_movies.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/star_director_avg_imdb_score.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/star_director_total_gross.jpg)
 
 ## Which companies earned the most revenue?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/top_6_companies_gross.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/top_6_companies_gross.jpg)
 
 ## How many films were released in each season? How did the revenues of the films vary by the season they were released in?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/number_of_movies_by_season.jpg)
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/total_gross_revenue_by_season.jpg)
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/distribution_of_box_office_revenue_by_season.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/number_of_movies_by_season.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/total_gross_revenue_by_season.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/distribution_of_box_office_revenue_by_season.jpg)
 
 ## Which actors have appeared in the most films?
 
-![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/top_10_actors_by_number_of_movies.png)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/graphs/top_10_actors_by_number_of_movies.png)
