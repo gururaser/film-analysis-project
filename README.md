@@ -6,6 +6,10 @@ By conducting exploratory data analysis, we can identify trends, patterns, and r
 
 > Dataset is from [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
+# You may want to take a look at the report.
+
+[Data Analysis Report (PDF)](https://github.com/gururaser/film-analysis-project/blob/main/data-analysis-of-movie-industry-report.pdf)
+
 ## Question : How were the films selected?
 
 Data Collector's answer : 
