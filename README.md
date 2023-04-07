@@ -52,3 +52,13 @@ Data Collector's answer :
 ## Which companies earned the most revenue?
 
 ![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/top_6_companies_gross.jpg)
+
+## How many films were released in each season? How did the revenues of the films vary by the season they were released in?
+
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/number_of_movies_by_season.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/total_gross_revenue_by_season.jpg)
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/distribution_of_box_office_revenue_by_season.jpg)
+
+## Which actors have appeared in the most films?
+
+![Analysis](https://github.com/gururaser/film-analysis-project/blob/main/top_10_actors_by_number_of_movies.png)
